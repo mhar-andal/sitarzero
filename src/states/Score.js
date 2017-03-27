@@ -1,3 +1,4 @@
+const score = [
 {
   "score": {
     "part": {
@@ -19235,3 +19236,6 @@
     }
   }
 }
+]
+
+export default score;
